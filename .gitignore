@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local-only files (not pushed to GitHub)
+#   notebooks/: personal Jupyter notebooks for learning packages
+notebooks/
